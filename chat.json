@@ -1,0 +1,26 @@
+[
+    {
+        "you": "hi",
+        "Chatbot": "Hello! How can I help you today?"
+    },
+    {
+        "you": "ho",
+        "Chatbot": "It seems you've typed \"ho\". This could be the start of many things! To help me understand what you're looking for, could you please tell me more? For example, are you:\n\n*   **Trying to spell a word?** (e.g., \"how\", \"hot\", \"home\", \"hope\", \"horse\")\n*   **Starting a sentence?**\n*   **Asking a question?**\n*   **Looking for something specific?**\n\nThe more information you give me, the better I can assist you!"
+    },
+    {
+        "you": "how are you",
+        "Chatbot": "I am a large language model, trained by Google."
+    },
+    {
+        "you": "how are you",
+        "Chatbot": "I am a large language model, trained by Google."
+    },
+    {
+        "you": "how are you",
+        "Chatbot": "I am a large language model, trained by Google."
+    },
+    {
+        "you": "all goog?",
+        "Chatbot": "\"All goog?\" is a bit ambiguous and could mean a few things! To give you the best answer, I need a little more context.\n\nHere are some possibilities and what I'd need to know to clarify:\n\n**1. Are you asking if everything is okay?**\n\n*   **If so, \"goog\" is likely a typo for \"good.\"** In this case, you're asking: \"Is everything good?\"\n    *   **My answer:** Generally, I'm a language model, so I don't have feelings or experiences in the way a human does. I'm functioning as intended. If you're asking about a specific situation, please provide more details!\n\n**2. Are you asking about the company Google?**\n\n*   **If so, \"goog\" is likely slang or a typo for \"GOOG\" (the stock ticker for Alphabet Inc., Google's parent company).** You might be asking:\n    *   \"Is the Google stock doing well?\"\n    *   \"Is Google as a company doing well?\"\n    *   \"What's happening with Google?\"\n    *   **My answer:** I don't have real-time stock market data. For the latest information on GOOG stock performance, you would need to check a financial news website or a stock tracking service. As for the company itself, Google (Alphabet) is a massive and influential company, and its performance is constantly analyzed by experts.\n\n**3. Are you referring to something else entirely?**\n\n*   **If so, please tell me what \"goog\" refers to in your context.** It could be:\n    *   A nickname?\n    *   A specific product or service?\n    *   A word in another language?\n    *   Something completely different!\n\n**Please provide a little more information so I can give you a helpful answer!**"
+    }
+]
